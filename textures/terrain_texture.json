@@ -1,0 +1,148 @@
+{
+  "resource_pack_name": "resourcePack.festive.name",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "grass_side": {
+      "textures": [
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#eaf1f6"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#cbdef6"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#d5e5f6"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#eaf5fe"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ecf1f9"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ecf3f9"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ebf0f4"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#f0f6fc"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#eaedf1"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#f0fbff"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#e9eff3"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#dae0f0"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#f0f5fa"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#e3effa"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#edf2f9"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ecf3f8"
+        },
+        "textures/blocks/grass_side_snowed"
+      ]
+    },
+    "grass_carried": {
+      "textures": {
+        "path": "textures/blocks/grass_side",
+        "overlay_color": "#eaf1f6"
+      }
+    },
+    "leaves": {
+      "textures": [
+        {
+          "path": "textures/blocks/leaves_oak",
+          "mip_fade_amount": 1.0,
+          "mip_fade_color": [79, 92, 72, 255]
+        },
+        {
+          "path": "textures/blocks/leaves_spruce",
+          "mip_fade_amount": 1.0,
+          "mip_fade_color": [66, 98, 55, 255]
+        },
+        {
+          "path": "textures/blocks/leaves_birch",
+          "mip_fade_amount": 1.0,
+          "mip_fade_color": [78, 92, 70, 255]
+        },
+        {
+          "path": "textures/blocks/leaves_jungle",
+          "mip_fade_amount": 1.0,
+          "mip_fade_color": [88, 123, 74, 255]
+        },
+        {
+          "path": "textures/blocks/leaves_oak_opaque",
+          "mip_fade_amount": 1.0,
+          "mip_fade_color": [79, 92, 72, 255]
+        },
+        {
+          "path": "textures/blocks/leaves_spruce_opaque",
+          "mip_fade_amount": 1.0,
+          "mip_fade_color": [66, 98, 55, 255]
+        },
+        {
+          "path": "textures/blocks/leaves_birch_opaque",
+          "mip_fade_amount": 1.0,
+          "mip_fade_color": [78, 92, 70, 255]
+        },
+        {
+          "path": "textures/blocks/leaves_jungle_opaque",
+          "mip_fade_amount": 1.0,
+          "mip_fade_color": [88, 123, 74, 255]
+        }
+      ]
+    },
+    "leaves2": {
+      "textures": [
+        "textures/blocks/leaves_acacia",
+        {
+          "path": "textures/blocks/leaves_big_oak",
+          "mip_fade_amount": 1.0,
+          "mip_fade_color": [79, 92, 72, 255]
+        },
+        "textures/blocks/leaves_acacia_opaque",
+        {
+          "path": "textures/blocks/leaves_big_oak_opaque",
+          "mip_fade_amount": 1.0,
+          "mip_fade_color": [79, 92, 72, 255]
+        }
+      ]
+    },
+    "vine": {
+      "textures": "textures/blocks/vine",
+      "mip_fade_amount": 1.0,
+      "mip_fade_color": [46, 47, 40, 0]
+    }
+  }
+}

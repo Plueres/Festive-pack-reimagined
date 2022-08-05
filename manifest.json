@@ -1,0 +1,22 @@
+{
+    "format_version": 2,
+    "header": {
+      "name": "Festive",
+      "description": "",
+      "uuid": "f061076b-5ffa-43a9-8965-45e3eae7d8f7",
+      "version": [1,0,0],
+      "min_engine_version": [1,16,0]
+    },
+    "modules": [
+      {
+        "type": "resources",
+        "uuid": "2c13c1e3-83f0-4c62-9925-9bab02877d37",
+        "version": [1,0,0]
+      }
+    ],
+    "metadata": {
+      "authors": [
+        "_Rickname_"
+      ]
+    }
+  }
