@@ -1,0 +1,10 @@
+ITEMS
+- dyes to different texture
+BLOCKS
+- glass is wrong
+- add ore textures for copper, nether gold ore & all deepslate ores
+- delete more faithful textures
+- fix spruce leaves
+
+UI
+- fix hotbar
