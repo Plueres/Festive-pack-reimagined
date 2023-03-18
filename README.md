@@ -15,6 +15,7 @@ BLOCKS
 - [ ] fix plant textures
 UI
 - [X] fix hotbar
+- [ ] add icon textures
 ### Create
 ITEMS
 - [ ] bed textures
