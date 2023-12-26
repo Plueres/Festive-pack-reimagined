@@ -13,6 +13,7 @@ BLOCKS
 - [ ] fix spruce leaves
 - [ ] nether blocks textures
 - [ ] fix plant textures
+- [ ] fern item and block textures
 UI
 - [X] fix hotbar
 - [ ] add icon textures
@@ -44,3 +45,5 @@ UI
 ENTITIES
 - [ ] armor stand texture
 - [ ] signs textures
+TEXT
+- [ ] Remove more outdated texts
